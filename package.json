@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "save": "git commit -m \"save\" --author=\"Bezpieczny Poradnik<cuma.dopuscic-0k@icloud.com>\" && git push origin master"
+    "save": "git commit -m \"save\" --author=\"Bezpieczny Poradnik<cuma.dopuscic-0k@icloud.com>\" && git push origin main"
   },
   "author": "",
   "license": "ISC"
