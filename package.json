@@ -1,0 +1,11 @@
+{
+  "name": "bezpieczny-poradnik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "save": "git commit -m \"save\" --author=\"Bezpieczny Poradnik<cuma.dopuscic-0k@icloud.com>\" && git push origin master"
+  },
+  "author": "",
+  "license": "ISC"
+}
